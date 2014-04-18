@@ -1,4 +1,0 @@
-# heading
-## heading
-### heading
-text...
